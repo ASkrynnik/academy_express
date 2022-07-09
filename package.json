@@ -1,0 +1,25 @@
+{
+  "name": "academy_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASkrynnik/academy_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASkrynnik/academy_express/issues"
+  },
+  "homepage": "https://github.com/ASkrynnik/academy_express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
